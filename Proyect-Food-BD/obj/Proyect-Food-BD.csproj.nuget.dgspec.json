@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fer\\source\\repos\\Proyect-Food-BD\\Proyect-Food-BD\\Proyect-Food-BD.csproj": {}
+    "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Proyect-Food-BD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fer\\source\\repos\\Proyect-Food-BD\\Proyect-Food-BD\\Proyect-Food-BD.csproj": {
+    "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Proyect-Food-BD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fer\\source\\repos\\Proyect-Food-BD\\Proyect-Food-BD\\Proyect-Food-BD.csproj",
+        "projectUniqueName": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Proyect-Food-BD.csproj",
         "projectName": "Proyect-Food-BD",
-        "projectPath": "C:\\Users\\Fer\\source\\repos\\Proyect-Food-BD\\Proyect-Food-BD\\Proyect-Food-BD.csproj",
+        "projectPath": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Proyect-Food-BD.csproj",
         "packagesPath": "C:\\Users\\Fer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fer\\source\\repos\\Proyect-Food-BD\\Proyect-Food-BD\\obj\\",
+        "outputPath": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

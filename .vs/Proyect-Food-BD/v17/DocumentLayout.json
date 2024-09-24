@@ -1,7 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fer\\source\\repos\\Proyect-Food-BD\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|c:\\users\\fer\\desktop\\proyect-food-bd\\proyect-food-db\\proyect-food-bd\\models\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|solutionrelative:proyect-food-bd\\models\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|c:\\users\\fer\\desktop\\proyect-food-bd\\proyect-food-db\\proyect-food-bd\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|solutionrelative:proyect-food-bd\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|c:\\users\\fer\\desktop\\proyect-food-bd\\proyect-food-db\\proyect-food-bd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|solutionrelative:proyect-food-bd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|c:\\users\\fer\\desktop\\proyect-food-bd\\proyect-food-db\\proyect-food-bd\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|solutionrelative:proyect-food-bd\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|c:\\users\\fer\\desktop\\proyect-food-bd\\proyect-food-db\\proyect-food-bd\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2AB6F7-0A99-4739-B3AE-524C4A591258}|Proyect-Food-BD\\Proyect-Food-BD.csproj|solutionrelative:proyect-food-bd\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +51,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\Dealer.cs",
+              "RelativeDocumentMoniker": "Proyect-Food-BD\\Models\\Dealer.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\Dealer.cs",
+              "RelativeToolTip": "Proyect-Food-BD\\Models\\Dealer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:46:40.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Proyect-Food-BD\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\Products.cs",
+              "RelativeToolTip": "Proyect-Food-BD\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:42:49.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Proyect-Food-BD\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\Orders.cs",
+              "RelativeToolTip": "Proyect-Food-BD\\Models\\Orders.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:39:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Proyect-Food-BD\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\Client.cs",
+              "RelativeToolTip": "Proyect-Food-BD\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:34:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Proyect-Food-BD\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\Proyect-Food-BD\\proyect-food-db\\Proyect-Food-BD\\Models\\User.cs",
+              "RelativeToolTip": "Proyect-Food-BD\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:30:50.922Z",
+              "EditorCaption": ""
             }
           ]
         },
